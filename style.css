@@ -1,0 +1,11 @@
+.contenedor {
+    display: flex;
+    gap: 20px;
+}
+
+.card {
+    width: 150px;
+    padding: 20px;
+    border: 2px solid black;
+    text-align: center;
+}
